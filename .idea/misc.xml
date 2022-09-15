@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/StudentManaKotlin/app/src/main/res/layout/activity_main.xml" value="0.30299145299145297" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable-v24/custom_progress_bar.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/bottom_nav_color.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/circle_check_box.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/coner_active_inprogress_background.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/coner_check_box.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/coner_gradient_background.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/coner_image.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/coner_non_active_inprogress_background.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/conner_button.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/cricle_image.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/custom_active_inprogress_progress_bar.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/custom_non_active_inprogress_progress_bar.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/custom_progress_bar.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/ic_round_add_24.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/ic_twotone_access_time_filled_24.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/orange_gradient_color.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/transparent_background.xml" value="0.173" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/drawable/uncheck.xml" value="0.2075" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/activity_details.xml" value="0.29915611814345994" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.2777777777777778" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/fragment_home.xml" value="0.30826086956521737" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/in_progress_item.xml" value="0.29915611814345994" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/inprogress_person_item.xml" value="0.2462962962962963" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/today_task_item.xml" value="0.30299145299145297" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/layout/work_item.xml" value="0.5" />
+        <entry key="..\:/ToDoAppKotlin/app/src/main/res/menu/bottom_navi.xml" value="0.30299145299145297" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
